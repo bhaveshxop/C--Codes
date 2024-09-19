@@ -1,0 +1,14 @@
+D:\Zensar\C# Codes\Excercise1\bin\Debug\net8.0\Excercise1.exe
+D:\Zensar\C# Codes\Excercise1\bin\Debug\net8.0\Excercise1.deps.json
+D:\Zensar\C# Codes\Excercise1\bin\Debug\net8.0\Excercise1.runtimeconfig.json
+D:\Zensar\C# Codes\Excercise1\bin\Debug\net8.0\Excercise1.dll
+D:\Zensar\C# Codes\Excercise1\bin\Debug\net8.0\Excercise1.pdb
+D:\Zensar\C# Codes\Excercise1\obj\Debug\net8.0\Excercise1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zensar\C# Codes\Excercise1\obj\Debug\net8.0\Excercise1.AssemblyInfoInputs.cache
+D:\Zensar\C# Codes\Excercise1\obj\Debug\net8.0\Excercise1.AssemblyInfo.cs
+D:\Zensar\C# Codes\Excercise1\obj\Debug\net8.0\Excercise1.csproj.CoreCompileInputs.cache
+D:\Zensar\C# Codes\Excercise1\obj\Debug\net8.0\Excercise1.dll
+D:\Zensar\C# Codes\Excercise1\obj\Debug\net8.0\refint\Excercise1.dll
+D:\Zensar\C# Codes\Excercise1\obj\Debug\net8.0\Excercise1.pdb
+D:\Zensar\C# Codes\Excercise1\obj\Debug\net8.0\Excercise1.genruntimeconfig.cache
+D:\Zensar\C# Codes\Excercise1\obj\Debug\net8.0\ref\Excercise1.dll
